@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data ><item name=\"Test Sample Document\" url=\"Test_Sample_Document/Test_Sample_Document.htm\" /><item name=\"Help\" url=\"Test_Sample_Document/Help.htm\" /><item name=\"Tetra4D Enrich overview\" url=\"Test_Sample_Document/Tetra4D_Enrich_overview.htm\" /></data>";

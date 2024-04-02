@@ -1,0 +1,1 @@
+gXMLBuffer="<?xml version=\"1.0\" encoding=\"utf-8\"?><cki><ck fm=\"(\" to=\"piece\"/><ck fm=\"plan\" to=\"•\"/></cki>";

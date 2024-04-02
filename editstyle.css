@@ -1,0 +1,1606 @@
+﻿p {
+}
+p.ScreenSpace {
+               margin-left:0.000pt;
+               margin-right:0.000pt;
+               text-align:left;
+               text-indent:0.000pt;
+               margin-top:0.000pt;
+               margin-bottom:0.000pt;
+               word-spacing:0.250em;
+               font-family:"Times New Roman";
+               font-style:normal;
+               font-weight:normal;
+               font-size:6.0pt;
+               color:#000000;
+               background-color:none;
+               text-decoration:none;
+               letter-spacing:0.00em;
+}
+caption.ScreenSpace {
+                     margin-left:0.000pt;
+                     margin-right:0.000pt;
+                     text-align:left;
+                     text-indent:0.000pt;
+                     margin-top:0.000pt;
+                     margin-bottom:0.000pt;
+                     word-spacing:0.250em;
+                     font-family:"Times New Roman";
+                     font-style:normal;
+                     font-weight:normal;
+                     font-size:6.0pt;
+                     color:#000000;
+                     background-color:none;
+                     text-decoration:none;
+                     letter-spacing:0.00em;
+}
+p.NoteNumber {
+              margin-left:126.720pt;
+              margin-right:0.000pt;
+              text-align:left;
+              text-indent:-11.520pt;
+              margin-top:13.000pt;
+              margin-bottom:0.000pt;
+              word-spacing:0.250em;
+              color:black;
+              background-color:none;
+              text-decoration:none;
+              letter-spacing:0.00em;
+              font:italic normal 10px Arial;
+}
+caption.NoteNumber {
+                    margin-left:126.720pt;
+                    margin-right:0.000pt;
+                    text-align:left;
+                    text-indent:-11.520pt;
+                    margin-top:13.000pt;
+                    margin-bottom:0.000pt;
+                    word-spacing:0.250em;
+                    font-family:"Times New Roman";
+                    font-style:italic;
+                    font-weight:normal;
+                    font-size:11.0pt;
+                    color:#000000;
+                    background-color:none;
+                    text-decoration:none;
+                    letter-spacing:0.00em;
+}
+p.Indent {
+          margin-left:108.000pt;
+          margin-right:0.000pt;
+          text-align:left;
+          text-indent:0.000pt;
+          margin-top:0.000pt;
+          margin-bottom:0.000pt;
+          word-spacing:0.250em;
+          font-family:"Times New Roman";
+          font-style:normal;
+          font-weight:normal;
+          font-size:11.0pt;
+          color:#000000;
+          background-color:none;
+          text-decoration:none;
+          letter-spacing:0.00em;
+}
+caption.Indent {
+                margin-left:108.000pt;
+                margin-right:0.000pt;
+                text-align:left;
+                text-indent:0.000pt;
+                margin-top:0.000pt;
+                margin-bottom:0.000pt;
+                word-spacing:0.250em;
+                font-family:"Times New Roman";
+                font-style:normal;
+                font-weight:normal;
+                font-size:11.0pt;
+                color:#000000;
+                background-color:none;
+                text-decoration:none;
+                letter-spacing:0.00em;
+}
+p.Head_2 {
+          margin-left:90.000pt;
+          margin-right:0.000pt;
+          text-align:left;
+          text-indent:0.000pt;
+          margin-top:13.000pt;
+          margin-bottom:0.000pt;
+          word-spacing:0.250em;
+          font-family:"Times New Roman";
+          font-style:normal;
+          font-weight:normal;
+          font-size:11.0pt;
+          color:#000000;
+          background-color:none;
+          text-decoration:none;
+          letter-spacing:0.00em;
+}
+caption.Head_2 {
+                margin-left:90.000pt;
+                margin-right:0.000pt;
+                text-align:left;
+                text-indent:0.000pt;
+                margin-top:13.000pt;
+                margin-bottom:0.000pt;
+                word-spacing:0.250em;
+                font-family:"Times New Roman";
+                font-style:normal;
+                font-weight:normal;
+                font-size:11.0pt;
+                color:#000000;
+                background-color:none;
+                text-decoration:none;
+                letter-spacing:0.00em;
+}
+p.CellBodyNumber {
+                  margin-left:0.000pt;
+                  margin-right:0.000pt;
+                  text-align:left;
+                  text-indent:0.000pt;
+                  margin-top:0.000pt;
+                  margin-bottom:0.000pt;
+                  word-spacing:0.250em;
+                  color:black;
+                  background-color:none;
+                  text-decoration:none;
+                  letter-spacing:0.00em;
+                  font:normal 10pt Arial;
+}
+caption.CellBodyNumber {
+                        margin-left:0.000pt;
+                        margin-right:0.000pt;
+                        text-align:left;
+                        text-indent:0.000pt;
+                        margin-top:0.000pt;
+                        margin-bottom:0.000pt;
+                        word-spacing:0.250em;
+                        font-family:Arial;
+                        font-style:normal;
+                        font-weight:normal;
+                        font-size:8.0pt;
+                        color:#000000;
+                        background-color:none;
+                        text-decoration:none;
+                        letter-spacing:0.00em;
+}
+p.Callout8 {
+            margin-left:0.000pt;
+            margin-right:0.000pt;
+            text-align:left;
+            text-indent:0.000pt;
+            margin-top:0.000pt;
+            margin-bottom:0.000pt;
+            word-spacing:0.250em;
+            font-family:Arial;
+            font-style:normal;
+            font-weight:normal;
+            font-size:8.0pt;
+            color:#000000;
+            background-color:none;
+            text-decoration:none;
+            letter-spacing:0.00em;
+}
+caption.Callout8 {
+                  margin-left:0.000pt;
+                  margin-right:0.000pt;
+                  text-align:left;
+                  text-indent:0.000pt;
+                  margin-top:0.000pt;
+                  margin-bottom:0.000pt;
+                  word-spacing:0.250em;
+                  font-family:Arial;
+                  font-style:normal;
+                  font-weight:normal;
+                  font-size:8.0pt;
+                  color:#000000;
+                  background-color:none;
+                  text-decoration:none;
+                  letter-spacing:0.00em;
+}
+p.Title {
+         margin-left:0.000pt;
+         margin-right:0.000pt;
+         text-align:right;
+         text-indent:0.000pt;
+         margin-top:0.000pt;
+         margin-bottom:0.000pt;
+         word-spacing:0.250em;
+         font-family:Arial;
+         font-style:normal;
+         font-weight:bold;
+         font-size:12.0pt;
+         color:#000000;
+         background-color:none;
+         text-decoration:none;
+         letter-spacing:0.00em;
+}
+caption.Title {
+               margin-left:0.000pt;
+               margin-right:0.000pt;
+               text-align:right;
+               text-indent:0.000pt;
+               margin-top:0.000pt;
+               margin-bottom:0.000pt;
+               word-spacing:0.250em;
+               font-family:Arial;
+               font-style:normal;
+               font-weight:bold;
+               font-size:12.0pt;
+               color:#000000;
+               background-color:none;
+               text-decoration:none;
+               letter-spacing:0.00em;
+}
+p.NumberFirst {
+               text-align:justify;
+               text-indent:5;
+               word-spacing:normal;
+               color:black;
+               background-color:none;
+               text-decoration:none;
+               letter-spacing:0em;
+               font:normal 10pt Arial;
+               left:0pt;
+               clip:rect(auto,auto,auto,0px);
+               margin:13pt 0pt 0pt 90pt;
+}
+caption.NumberFirst {
+                     margin-left:90.000pt;
+                     margin-right:0.000pt;
+                     text-align:left;
+                     text-indent:-18.000pt;
+                     margin-top:13.000pt;
+                     margin-bottom:0.000pt;
+                     word-spacing:0.250em;
+                     font-family:"Times New Roman";
+                     font-style:normal;
+                     font-weight:normal;
+                     font-size:11.0pt;
+                     color:#000000;
+                     background-color:none;
+                     text-decoration:none;
+                     letter-spacing:0.00em;
+}
+p.NoteNumberFirst {
+                   margin-left:126.720pt;
+                   margin-right:0.000pt;
+                   text-align:left;
+                   text-indent:-36.720pt;
+                   margin-top:13.000pt;
+                   margin-bottom:0.000pt;
+                   word-spacing:0.250em;
+                   color:black;
+                   background-color:none;
+                   text-decoration:none;
+                   letter-spacing:0.00em;
+                   font:italic normal 10px Arial;
+}
+caption.NoteNumberFirst {
+                         margin-left:126.720pt;
+                         margin-right:0.000pt;
+                         text-align:left;
+                         text-indent:-36.720pt;
+                         margin-top:13.000pt;
+                         margin-bottom:0.000pt;
+                         word-spacing:0.250em;
+                         font-family:"Times New Roman";
+                         font-style:italic;
+                         font-weight:normal;
+                         font-size:11.0pt;
+                         color:#000000;
+                         background-color:none;
+                         text-decoration:none;
+                         letter-spacing:0.00em;
+}
+p.Callout {
+           margin-left:0.000pt;
+           margin-right:0.000pt;
+           text-align:left;
+           text-indent:0.000pt;
+           margin-top:0.000pt;
+           margin-bottom:0.000pt;
+           word-spacing:0.250em;
+           font-family:Arial;
+           color:black;
+           background-color:none;
+           text-decoration:none;
+           letter-spacing:0.00em;
+           font:normal 8pt Arial;
+}
+caption.Callout {
+                 margin-left:0.000pt;
+                 margin-right:0.000pt;
+                 text-align:left;
+                 text-indent:0.000pt;
+                 margin-top:0.000pt;
+                 margin-bottom:0.000pt;
+                 word-spacing:0.250em;
+                 font-family:Arial;
+                 font-style:normal;
+                 font-weight:normal;
+                 font-size:8.0pt;
+                 color:#000000;
+                 background-color:none;
+                 text-decoration:none;
+                 letter-spacing:0.00em;
+}
+p.Head1 {
+         margin-left:0.000pt;
+         margin-right:0.000pt;
+         text-align:left;
+         text-indent:0.000pt;
+         margin-top:44.000pt;
+         margin-bottom:11.000pt;
+         word-spacing:0.05px;
+         color:black;
+         background-color:none;
+         text-decoration:none;
+         letter-spacing:0.05px;
+         font:bold normal 22pt Arial;
+}
+caption.Head1 {
+               margin-left:0.000pt;
+               margin-right:0.000pt;
+               text-align:left;
+               text-indent:0.000pt;
+               margin-top:44.000pt;
+               margin-bottom:11.000pt;
+               word-spacing:0.250em;
+               font-family:Arial;
+               font-style:normal;
+               font-weight:bold;
+               font-size:18.0pt;
+               color:#000000;
+               background-color:none;
+               text-decoration:none;
+               letter-spacing:0.00em;
+}
+p.CellBody_Keys {
+                 margin-left:54.000pt;
+                 margin-right:0.000pt;
+                 text-align:left;
+                 text-indent:0.000pt;
+                 margin-top:10.000pt;
+                 margin-bottom:10.000pt;
+                 word-spacing:0.250em;
+                 font-family:Arial;
+                 font-style:normal;
+                 font-weight:normal;
+                 font-size:8.0pt;
+                 color:#000000;
+                 background-color:none;
+                 text-decoration:none;
+                 letter-spacing:0.00em;
+}
+caption.CellBody_Keys {
+                       margin-left:54.000pt;
+                       margin-right:0.000pt;
+                       text-align:left;
+                       text-indent:0.000pt;
+                       margin-top:10.000pt;
+                       margin-bottom:10.000pt;
+                       word-spacing:0.250em;
+                       font-family:Arial;
+                       font-style:normal;
+                       font-weight:normal;
+                       font-size:8.0pt;
+                       color:#000000;
+                       background-color:none;
+                       text-decoration:none;
+                       letter-spacing:0.00em;
+}
+p.TitlePage {
+             margin-left:0.000pt;
+             margin-right:0.000pt;
+             text-align:left;
+             text-indent:0.000pt;
+             margin-top:0.000pt;
+             margin-bottom:0.000pt;
+             word-spacing:0.250em;
+             font-family:"Times New Roman";
+             font-style:normal;
+             font-weight:bold;
+             font-size:24.0pt;
+             color:#000000;
+             background-color:none;
+             text-decoration:none;
+             letter-spacing:0.00em;
+}
+caption.TitlePage {
+                   margin-left:0.000pt;
+                   margin-right:0.000pt;
+                   text-align:left;
+                   text-indent:0.000pt;
+                   margin-top:0.000pt;
+                   margin-bottom:0.000pt;
+                   word-spacing:0.250em;
+                   font-family:"Times New Roman";
+                   font-style:normal;
+                   font-weight:bold;
+                   font-size:24.0pt;
+                   color:#000000;
+                   background-color:none;
+                   text-decoration:none;
+                   letter-spacing:0.00em;
+}
+p.ScreenText {
+              margin-left:0.000pt;
+              margin-right:0.000pt;
+              text-align:left;
+              text-indent:0.000pt;
+              margin-top:0.000pt;
+              margin-bottom:0.000pt;
+              word-spacing:0.250em;
+              font-family:Arial;
+              font-style:normal;
+              font-weight:bold;
+              font-size:6.0pt;
+              color:#000000;
+              background-color:none;
+              text-decoration:none;
+              letter-spacing:0.00em;
+}
+caption.ScreenText {
+                    margin-left:0.000pt;
+                    margin-right:0.000pt;
+                    text-align:left;
+                    text-indent:0.000pt;
+                    margin-top:0.000pt;
+                    margin-bottom:0.000pt;
+                    word-spacing:0.250em;
+                    font-family:Arial;
+                    font-style:normal;
+                    font-weight:bold;
+                    font-size:6.0pt;
+                    color:#000000;
+                    background-color:none;
+                    text-decoration:none;
+                    letter-spacing:0.00em;
+}
+p.Note {
+        margin-right:0pt;
+        text-align:left;
+        margin-bottom:0pt;
+        color:black;
+        background-color:none;
+        text-decoration:none;
+        letter-spacing:normal;
+        font:italic normal 10pt Arial;
+        word-spacing:normal;
+}
+caption.Note {
+              margin-left:118.800pt;
+              margin-right:0.000pt;
+              text-align:left;
+              text-indent:-28.800pt;
+              margin-top:13.000pt;
+              margin-bottom:0.000pt;
+              word-spacing:0.250em;
+              font-family:"Times New Roman";
+              font-style:italic;
+              font-weight:normal;
+              font-size:11.0pt;
+              color:#000000;
+              background-color:none;
+              text-decoration:none;
+              letter-spacing:0.00em;
+}
+p.BodyTOC {
+           margin-left:180.000pt;
+           margin-right:0.000pt;
+           text-align:left;
+           text-indent:-90.000pt;
+           margin-top:0.000pt;
+           margin-bottom:0.000pt;
+           word-spacing:0.250em;
+           color:black;
+           background-color:none;
+           text-decoration:none;
+           letter-spacing:0.00em;
+           font:normal 10px Arial;
+}
+caption.BodyTOC {
+                 margin-left:180.000pt;
+                 margin-right:0.000pt;
+                 text-align:left;
+                 text-indent:-90.000pt;
+                 margin-top:0.000pt;
+                 margin-bottom:0.000pt;
+                 word-spacing:0.250em;
+                 font-family:"Times New Roman";
+                 font-style:normal;
+                 font-weight:normal;
+                 font-size:11.0pt;
+                 color:#000000;
+                 background-color:none;
+                 text-decoration:none;
+                 letter-spacing:0.00em;
+}
+p.BodyFirst {
+             word-spacing:0em;
+             color:black;
+             background-color:none;
+             text-decoration:none;
+             letter-spacing:0em;
+             font:normal 10pt Arial;
+             text-indent:0pt;
+             clip:rect(auto,auto,auto,auto);
+}
+caption.BodyFirst {
+                   margin-left:90.000pt;
+                   margin-right:0.000pt;
+                   text-align:left;
+                   text-indent:0.000pt;
+                   margin-top:0.000pt;
+                   margin-bottom:0.000pt;
+                   word-spacing:0.250em;
+                   font-family:"Times New Roman";
+                   font-style:normal;
+                   font-weight:normal;
+                   font-size:11.0pt;
+                   color:#000000;
+                   background-color:none;
+                   text-decoration:none;
+                   letter-spacing:0.00em;
+}
+p.Head3 {
+         text-align:left;
+         text-indent:0;
+         word-spacing:normal;
+         color:black;
+         background-color:none;
+         text-decoration:none;
+         letter-spacing:0em;
+         font:bold normal 14pt Arial;
+         margin:23pt 0pt 0pt;
+}
+caption.Head3 {
+               margin-left:126.000pt;
+               margin-right:0.000pt;
+               text-align:left;
+               text-indent:-36.000pt;
+               margin-top:21.000pt;
+               margin-bottom:0.000pt;
+               word-spacing:0.250em;
+               font-family:Arial;
+               font-style:normal;
+               font-weight:bold;
+               font-size:12.0pt;
+               color:#000000;
+               background-color:none;
+               text-decoration:none;
+               letter-spacing:0.00em;
+}
+p.Footer {
+          margin-left:0.000pt;
+          margin-right:0.000pt;
+          text-align:justify;
+          text-indent:0.000pt;
+          margin-top:0.000pt;
+          margin-bottom:0.000pt;
+          word-spacing:0.250em;
+          font-family:"Times New Roman";
+          font-style:italic;
+          font-weight:normal;
+          font-size:9.0pt;
+          color:#000000;
+          background-color:none;
+          text-decoration:none;
+          letter-spacing:0.00em;
+}
+caption.Footer {
+                margin-left:0.000pt;
+                margin-right:0.000pt;
+                text-align:justify;
+                text-indent:0.000pt;
+                margin-top:0.000pt;
+                margin-bottom:0.000pt;
+                word-spacing:0.250em;
+                font-family:"Times New Roman";
+                font-style:italic;
+                font-weight:normal;
+                font-size:9.0pt;
+                color:#000000;
+                background-color:none;
+                text-decoration:none;
+                letter-spacing:0.00em;
+}
+p.CellBody {
+            margin-left:0.000pt;
+            margin-right:0.000pt;
+            text-align:left;
+            text-indent:0;
+            margin-top:0.000pt;
+            margin-bottom:0.000pt;
+            word-spacing:normal;
+            color:black;
+            background-color:none;
+            text-decoration:none;
+            letter-spacing:0em;
+            font:normal 10pt Arial;
+}
+caption.CellBody {
+                  margin-left:0.000pt;
+                  margin-right:0.000pt;
+                  text-align:left;
+                  text-indent:0.000pt;
+                  margin-top:0.000pt;
+                  margin-bottom:0.000pt;
+                  word-spacing:0.250em;
+                  font-family:Arial;
+                  font-style:normal;
+                  font-weight:normal;
+                  font-size:8.0pt;
+                  color:#000000;
+                  background-color:none;
+                  text-decoration:none;
+                  letter-spacing:0.00em;
+}
+p.Callout9bullet {
+                  margin-left:14.400pt;
+                  margin-right:0.000pt;
+                  text-align:left;
+                  text-indent:-14.400pt;
+                  margin-top:0.000pt;
+                  margin-bottom:0.000pt;
+                  word-spacing:0.250em;
+                  font-family:Arial;
+                  font-style:normal;
+                  font-weight:normal;
+                  font-size:9.0pt;
+                  color:#000000;
+                  background-color:none;
+                  text-decoration:none;
+                  letter-spacing:0.00em;
+}
+caption.Callout9bullet {
+                        margin-left:14.400pt;
+                        margin-right:0.000pt;
+                        text-align:left;
+                        text-indent:-14.400pt;
+                        margin-top:0.000pt;
+                        margin-bottom:0.000pt;
+                        word-spacing:0.250em;
+                        font-family:Arial;
+                        font-style:normal;
+                        font-weight:normal;
+                        font-size:9.0pt;
+                        color:#000000;
+                        background-color:none;
+                        text-decoration:none;
+                        letter-spacing:0.00em;
+}
+p.BackCvrFooter {
+                 margin-left:0.000pt;
+                 margin-right:0.000pt;
+                 text-align:justify;
+                 text-indent:0.000pt;
+                 margin-top:0.000pt;
+                 margin-bottom:0.000pt;
+                 word-spacing:0.250em;
+                 font-family:"Times New Roman";
+                 font-style:italic;
+                 font-weight:normal;
+                 font-size:8.0pt;
+                 color:#000000;
+                 background-color:none;
+                 text-decoration:none;
+                 letter-spacing:-0.01em;
+}
+caption.BackCvrFooter {
+                       margin-left:0.000pt;
+                       margin-right:0.000pt;
+                       text-align:justify;
+                       text-indent:0.000pt;
+                       margin-top:0.000pt;
+                       margin-bottom:0.000pt;
+                       word-spacing:0.250em;
+                       font-family:"Times New Roman";
+                       font-style:italic;
+                       font-weight:normal;
+                       font-size:8.0pt;
+                       color:#000000;
+                       background-color:none;
+                       text-decoration:none;
+                       letter-spacing:-0.01em;
+}
+p.Warnings {
+            margin-left:0.000pt;
+            margin-right:0.000pt;
+            text-align:left;
+            text-indent:0.000pt;
+            margin-top:0.000pt;
+            margin-bottom:0.000pt;
+            word-spacing:0.250em;
+            color:black;
+            background-color:none;
+            text-decoration:none;
+            letter-spacing:0.00em;
+            font:normal 10px Arial;
+}
+caption.Warnings {
+                  margin-left:0.000pt;
+                  margin-right:0.000pt;
+                  text-align:left;
+                  text-indent:0.000pt;
+                  margin-top:0.000pt;
+                  margin-bottom:0.000pt;
+                  word-spacing:0.250em;
+                  font-family:Arial;
+                  font-style:normal;
+                  font-weight:normal;
+                  font-size:9.0pt;
+                  color:#000000;
+                  background-color:none;
+                  text-decoration:none;
+                  letter-spacing:0.00em;
+}
+p.Head2 {
+         margin-left:0.000pt;
+         margin-right:0.000pt;
+         text-align:left;
+         text-indent:0;
+         margin-top:23.000pt;
+         margin-bottom:0.000pt;
+         word-spacing:normal;
+         color:black;
+         background-color:none;
+         text-decoration:none;
+         letter-spacing:0em;
+         font:bold normal 16pt Arial;
+}
+caption.Head2 {
+               margin-left:0.000pt;
+               margin-right:0.000pt;
+               text-align:left;
+               text-indent:0.000pt;
+               margin-top:23.000pt;
+               margin-bottom:0.000pt;
+               word-spacing:0.250em;
+               font-family:Arial;
+               font-style:normal;
+               font-weight:bold;
+               font-size:14.0pt;
+               color:#000000;
+               background-color:none;
+               text-decoration:none;
+               letter-spacing:0.00em;
+}
+p.Figure_Title_Kit {
+                    margin-left:126.000pt;
+                    margin-right:0.000pt;
+                    text-align:left;
+                    text-indent:-36.000pt;
+                    margin-top:21.000pt;
+                    margin-bottom:0.000pt;
+                    word-spacing:0.250em;
+                    color:black;
+                    background-color:none;
+                    text-decoration:none;
+                    letter-spacing:0.00em;
+                    padding-bottom:0.5cm;
+                    font:bold normal 10pt Arial;
+}
+caption.Figure_Title_Kit {
+                          margin-left:126.000pt;
+                          margin-right:0.000pt;
+                          text-align:left;
+                          text-indent:-36.000pt;
+                          margin-top:21.000pt;
+                          margin-bottom:0.000pt;
+                          word-spacing:0.250em;
+                          font-family:Arial;
+                          font-style:normal;
+                          font-weight:bold;
+                          font-size:10.0pt;
+                          color:#000000;
+                          background-color:none;
+                          text-decoration:none;
+                          letter-spacing:0.00em;
+}
+p.CellBodyBullet {
+                  margin-left:14.400pt;
+                  margin-right:0.000pt;
+                  text-align:left;
+                  text-indent:-14.4;
+                  margin-top:0.000pt;
+                  margin-bottom:0.000pt;
+                  word-spacing:normal;
+                  color:black;
+                  background-color:none;
+                  text-decoration:none;
+                  letter-spacing:0em;
+                  font:normal 10pt Arial;
+}
+caption.CellBodyBullet {
+                        margin-left:14.400pt;
+                        margin-right:0.000pt;
+                        text-align:left;
+                        text-indent:-14.400pt;
+                        margin-top:0.000pt;
+                        margin-bottom:0.000pt;
+                        word-spacing:0.250em;
+                        font-family:Arial;
+                        font-style:normal;
+                        font-weight:normal;
+                        font-size:8.0pt;
+                        color:#000000;
+                        background-color:none;
+                        text-decoration:none;
+                        letter-spacing:0.00em;
+}
+p.Note_No_Space {
+                 text-align:left;
+                 text-indent:30;
+                 word-spacing:normal;
+                 color:black;
+                 background-color:none;
+                 text-decoration:none;
+                 letter-spacing:0em;
+                 font:italic normal 10pt Arial;
+                 margin:0pt 0pt 0pt 90pt;
+}
+caption.Note_No_Space {
+                       margin-left:118.800pt;
+                       margin-right:0.000pt;
+                       text-align:left;
+                       text-indent:-28.800pt;
+                       margin-top:0.000pt;
+                       margin-bottom:0.000pt;
+                       word-spacing:0.250em;
+                       font-family:"Times New Roman";
+                       font-style:italic;
+                       font-weight:normal;
+                       font-size:11.0pt;
+                       color:#000000;
+                       background-color:none;
+                       text-decoration:none;
+                       letter-spacing:0.00em;
+}
+p.KeyText {
+           margin-left:0.000pt;
+           margin-right:0.000pt;
+           text-align:left;
+           text-indent:0.000pt;
+           margin-top:8.000pt;
+           margin-bottom:0.000pt;
+           word-spacing:0.250em;
+           font-family:Arial;
+           font-style:normal;
+           font-weight:normal;
+           font-size:7.0pt;
+           color:#000000;
+           background-color:none;
+           text-decoration:none;
+           letter-spacing:0.00em;
+}
+caption.KeyText {
+                 margin-left:0.000pt;
+                 margin-right:0.000pt;
+                 text-align:left;
+                 text-indent:0.000pt;
+                 margin-top:8.000pt;
+                 margin-bottom:0.000pt;
+                 word-spacing:0.250em;
+                 font-family:Arial;
+                 font-style:normal;
+                 font-weight:normal;
+                 font-size:7.0pt;
+                 color:#000000;
+                 background-color:none;
+                 text-decoration:none;
+                 letter-spacing:0.00em;
+}
+p.Month_Year {
+              margin-left:0.000pt;
+              margin-right:0.000pt;
+              text-align:right;
+              text-indent:0.000pt;
+              margin-top:0.000pt;
+              margin-bottom:0.000pt;
+              word-spacing:0.250em;
+              font-family:Arial;
+              font-style:normal;
+              font-weight:bold;
+              font-size:12.0pt;
+              color:#000000;
+              background-color:none;
+              text-decoration:none;
+              letter-spacing:0.00em;
+}
+caption.Month_Year {
+                    margin-left:0.000pt;
+                    margin-right:0.000pt;
+                    text-align:right;
+                    text-indent:0.000pt;
+                    margin-top:0.000pt;
+                    margin-bottom:0.000pt;
+                    word-spacing:0.250em;
+                    font-family:Arial;
+                    font-style:normal;
+                    font-weight:bold;
+                    font-size:12.0pt;
+                    color:#000000;
+                    background-color:none;
+                    text-decoration:none;
+                    letter-spacing:0.00em;
+}
+p.CellBody_Indent {
+                   margin-left:0.000pt;
+                   margin-right:0.000pt;
+                   text-align:left;
+                   text-indent:18.000pt;
+                   margin-top:0.000pt;
+                   margin-bottom:0.000pt;
+                   word-spacing:0.250em;
+                   font-family:Arial;
+                   font-style:normal;
+                   font-weight:normal;
+                   font-size:8.0pt;
+                   color:#000000;
+                   background-color:none;
+                   text-decoration:none;
+                   letter-spacing:0.00em;
+}
+caption.CellBody_Indent {
+                         margin-left:0.000pt;
+                         margin-right:0.000pt;
+                         text-align:left;
+                         text-indent:18.000pt;
+                         margin-top:0.000pt;
+                         margin-bottom:0.000pt;
+                         word-spacing:0.250em;
+                         font-family:Arial;
+                         font-style:normal;
+                         font-weight:normal;
+                         font-size:8.0pt;
+                         color:#000000;
+                         background-color:none;
+                         text-decoration:none;
+                         letter-spacing:0.00em;
+}
+p.ReportText {
+              margin-left:0.000pt;
+              margin-right:0.000pt;
+              text-align:left;
+              text-indent:0.000pt;
+              margin-top:0.000pt;
+              margin-bottom:0.000pt;
+              word-spacing:0.250em;
+              font-family:"Courier New";
+              font-style:normal;
+              font-weight:normal;
+              font-size:7.0pt;
+              color:#000000;
+              background-color:none;
+              text-decoration:none;
+              letter-spacing:0.00em;
+}
+caption.ReportText {
+                    margin-left:0.000pt;
+                    margin-right:0.000pt;
+                    text-align:left;
+                    text-indent:0.000pt;
+                    margin-top:0.000pt;
+                    margin-bottom:0.000pt;
+                    word-spacing:0.250em;
+                    font-family:"Courier New";
+                    font-style:normal;
+                    font-weight:normal;
+                    font-size:7.0pt;
+                    color:#000000;
+                    background-color:none;
+                    text-decoration:none;
+                    letter-spacing:0.00em;
+}
+p.NumberFirstNoSpace {
+                      margin-left:90.000pt;
+                      margin-right:0.000pt;
+                      text-align:left;
+                      text-indent:-18.000pt;
+                      margin-top:0.000pt;
+                      margin-bottom:0.000pt;
+                      word-spacing:0.250em;
+                      color:black;
+                      background-color:none;
+                      text-decoration:none;
+                      letter-spacing:0.00em;
+                      font:normal 11pt Arial;
+}
+caption.NumberFirstNoSpace {
+                            margin-left:90.000pt;
+                            margin-right:0.000pt;
+                            text-align:left;
+                            text-indent:-18.000pt;
+                            margin-top:0.000pt;
+                            margin-bottom:0.000pt;
+                            word-spacing:0.250em;
+                            font-family:"Times New Roman";
+                            font-style:normal;
+                            font-weight:normal;
+                            font-size:11.0pt;
+                            color:#000000;
+                            background-color:none;
+                            text-decoration:none;
+                            letter-spacing:0.00em;
+}
+p.Header {
+          margin-left:0.000pt;
+          margin-right:0.000pt;
+          margin-top:0.000pt;
+          margin-bottom:0.000pt;
+          word-spacing:normal;
+          color:black;
+          background-color:none;
+          text-decoration:none;
+          font:bold normal 10pt Arial;
+}
+caption.Header {
+                margin-left:0.000pt;
+                margin-right:0.000pt;
+                text-align:justify;
+                text-indent:0.000pt;
+                margin-top:0.000pt;
+                margin-bottom:0.000pt;
+                word-spacing:0.250em;
+                font-family:Arial;
+                font-style:normal;
+                font-weight:bold;
+                font-size:10.0pt;
+                color:#000000;
+                background-color:none;
+                text-decoration:none;
+                letter-spacing:0.00em;
+}
+p.DocID {
+         margin-left:0.000pt;
+         margin-right:0.000pt;
+         text-align:right;
+         text-indent:0.000pt;
+         margin-top:0.000pt;
+         margin-bottom:0.000pt;
+         word-spacing:0.250em;
+         font-family:Arial;
+         font-style:normal;
+         font-weight:normal;
+         font-size:9.0pt;
+         color:#000000;
+         background-color:none;
+         text-decoration:none;
+         letter-spacing:0.00em;
+}
+caption.DocID {
+               margin-left:0.000pt;
+               margin-right:0.000pt;
+               text-align:right;
+               text-indent:0.000pt;
+               margin-top:0.000pt;
+               margin-bottom:0.000pt;
+               word-spacing:0.250em;
+               font-family:Arial;
+               font-style:normal;
+               font-weight:normal;
+               font-size:9.0pt;
+               color:#000000;
+               background-color:none;
+               text-decoration:none;
+               letter-spacing:0.00em;
+}
+p.CellHeading {
+               margin-left:0.000pt;
+               margin-right:0.000pt;
+               text-align:left;
+               text-indent:0.000pt;
+               margin-top:0.000pt;
+               margin-bottom:0.000pt;
+               word-spacing:0.250em;
+               color:black;
+               background-color:none;
+               text-decoration:none;
+               letter-spacing:0.00em;
+               font:bold normal 10pt Arial;
+}
+caption.CellHeading {
+                     margin-left:0.000pt;
+                     margin-right:0.000pt;
+                     text-align:left;
+                     text-indent:0.000pt;
+                     margin-top:0.000pt;
+                     margin-bottom:0.000pt;
+                     word-spacing:0.250em;
+                     font-family:Arial;
+                     font-style:normal;
+                     font-weight:bold;
+                     font-size:8.0pt;
+                     color:#000000;
+                     background-color:none;
+                     text-decoration:none;
+                     letter-spacing:0.00em;
+}
+p.CellBodyNumberFirst {
+                       margin-left:0.000pt;
+                       margin-right:0.000pt;
+                       text-align:left;
+                       text-indent:0.000pt;
+                       margin-top:0.000pt;
+                       margin-bottom:0.000pt;
+                       word-spacing:0.250em;
+                       color:black;
+                       background-color:none;
+                       text-decoration:none;
+                       letter-spacing:0.00em;
+                       font:normal 10pt Arial;
+}
+caption.CellBodyNumberFirst {
+                             margin-left:0.000pt;
+                             margin-right:0.000pt;
+                             text-align:left;
+                             text-indent:0.000pt;
+                             margin-top:0.000pt;
+                             margin-bottom:0.000pt;
+                             word-spacing:0.250em;
+                             font-family:Arial;
+                             font-style:normal;
+                             font-weight:normal;
+                             font-size:8.0pt;
+                             color:#000000;
+                             background-color:none;
+                             text-decoration:none;
+                             letter-spacing:0.00em;
+}
+p.AlphaNumberFirst {
+                    margin-left:99.360pt;
+                    margin-right:0.000pt;
+                    text-align:left;
+                    text-indent:-9.360pt;
+                    margin-top:13.000pt;
+                    margin-bottom:0.000pt;
+                    word-spacing:0.250em;
+                    font-family:"Times New Roman";
+                    color:black;
+                    background-color:none;
+                    text-decoration:none;
+                    letter-spacing:0.00em;
+                    font:normal 11pt Arial;
+}
+caption.AlphaNumberFirst {
+                          margin-left:99.360pt;
+                          margin-right:0.000pt;
+                          text-align:left;
+                          text-indent:-9.360pt;
+                          margin-top:13.000pt;
+                          margin-bottom:0.000pt;
+                          word-spacing:0.250em;
+                          font-family:"Times New Roman";
+                          font-style:normal;
+                          font-weight:normal;
+                          font-size:11.0pt;
+                          color:#000000;
+                          background-color:none;
+                          text-decoration:none;
+                          letter-spacing:0.00em;
+}
+p.Bullet {
+          word-spacing:0em;
+          color:black;
+          background-color:none;
+          text-decoration:none;
+          letter-spacing:0em;
+          font:normal 10pt Arial;
+          clip:rect(auto,auto,auto,auto);
+          margin:0pt 0pt 0pt 108pt;
+          text-indent:-14.4;
+}
+caption.Bullet {
+                margin-left:108.000pt;
+                margin-right:0.000pt;
+                text-align:left;
+                text-indent:-18.000pt;
+                margin-top:0.000pt;
+                margin-bottom:0.000pt;
+                word-spacing:0.250em;
+                font-family:"Times New Roman";
+                font-style:normal;
+                font-weight:normal;
+                font-size:11.0pt;
+                color:#000000;
+                background-color:none;
+                text-decoration:none;
+                letter-spacing:0.00em;
+}
+p.NoteIndent {
+              margin-left:141.840pt;
+              margin-right:0.000pt;
+              text-align:left;
+              text-indent:-33.840pt;
+              margin-top:0.000pt;
+              margin-bottom:0.000pt;
+              word-spacing:0.250em;
+              font-family:"Times New Roman";
+              font-style:italic;
+              font-weight:normal;
+              font-size:11.0pt;
+              color:#000000;
+              background-color:none;
+              text-decoration:none;
+              letter-spacing:0.00em;
+}
+caption.NoteIndent {
+                    margin-left:141.840pt;
+                    margin-right:0.000pt;
+                    text-align:left;
+                    text-indent:-33.840pt;
+                    margin-top:0.000pt;
+                    margin-bottom:0.000pt;
+                    word-spacing:0.250em;
+                    font-family:"Times New Roman";
+                    font-style:italic;
+                    font-weight:normal;
+                    font-size:11.0pt;
+                    color:#000000;
+                    background-color:none;
+                    text-decoration:none;
+                    letter-spacing:0.00em;
+}
+p.AlphaNumber {
+               margin-left:99.360pt;
+               margin-right:0.000pt;
+               text-align:left;
+               text-indent:-9.360pt;
+               margin-top:13.000pt;
+               margin-bottom:0.000pt;
+               word-spacing:0.250em;
+               font-family:"Times New Roman";
+               color:black;
+               background-color:none;
+               text-decoration:none;
+               letter-spacing:0.00em;
+               font:normal 11pt Arial;
+}
+caption.AlphaNumber {
+                     margin-left:99.360pt;
+                     margin-right:0.000pt;
+                     text-align:left;
+                     text-indent:-9.360pt;
+                     margin-top:13.000pt;
+                     margin-bottom:0.000pt;
+                     word-spacing:0.250em;
+                     font-family:"Times New Roman";
+                     font-style:normal;
+                     font-weight:normal;
+                     font-size:11.0pt;
+                     color:#000000;
+                     background-color:none;
+                     text-decoration:none;
+                     letter-spacing:0.00em;
+}
+p.CellBodyCenter {
+                  margin-left:0.000pt;
+                  margin-right:0.000pt;
+                  text-align:center;
+                  text-indent:0.000pt;
+                  margin-top:0.000pt;
+                  margin-bottom:0.000pt;
+                  word-spacing:0.250em;
+                  font-family:Arial;
+                  font-style:normal;
+                  font-weight:normal;
+                  font-size:8.0pt;
+                  color:#000000;
+                  background-color:none;
+                  text-decoration:none;
+                  letter-spacing:0.00em;
+}
+caption.CellBodyCenter {
+                        margin-left:0.000pt;
+                        margin-right:0.000pt;
+                        text-align:center;
+                        text-indent:0.000pt;
+                        margin-top:0.000pt;
+                        margin-bottom:0.000pt;
+                        word-spacing:0.250em;
+                        font-family:Arial;
+                        font-style:normal;
+                        font-weight:normal;
+                        font-size:8.0pt;
+                        color:#000000;
+                        background-color:none;
+                        text-decoration:none;
+                        letter-spacing:0.00em;
+}
+p.Number {
+          word-spacing:normal;
+          color:black;
+          background-color:none;
+          letter-spacing:0em;
+          font:normal 10pt Arial;
+          text-align:left;
+          text-indent:5;
+          margin:13pt 0pt 0pt 90pt;
+}
+caption.Number {
+                margin-left:90.000pt;
+                margin-right:0.000pt;
+                text-align:left;
+                text-indent:-18.000pt;
+                margin-top:13.000pt;
+                margin-bottom:0.000pt;
+                word-spacing:0.250em;
+                font-family:"Times New Roman";
+                font-style:normal;
+                font-weight:normal;
+                font-size:11.0pt;
+                color:#000000;
+                background-color:none;
+                text-decoration:none;
+                letter-spacing:0.00em;
+}
+p.Kit_Title {
+             margin-left:0.000pt;
+             margin-right:0.000pt;
+             text-align:right;
+             text-indent:0.000pt;
+             margin-top:0.000pt;
+             margin-bottom:0.000pt;
+             word-spacing:0.250em;
+             color:black;
+             background-color:none;
+             text-decoration:none;
+             letter-spacing:0.00em;
+             font:normal 14pt Arial;
+}
+caption.Kit_Title {
+                   margin-left:0.000pt;
+                   margin-right:0.000pt;
+                   text-align:right;
+                   text-indent:0.000pt;
+                   margin-top:0.000pt;
+                   margin-bottom:0.000pt;
+                   word-spacing:0.250em;
+                   font-family:"Times New Roman";
+                   font-style:normal;
+                   font-weight:normal;
+                   font-size:14.0pt;
+                   color:#000000;
+                   background-color:none;
+                   text-decoration:none;
+                   letter-spacing:0.00em;
+}
+p.Head3NoSpace {
+                margin-left:90.000pt;
+                margin-right:0.000pt;
+                text-align:left;
+                text-indent:0.000pt;
+                margin-top:0.000pt;
+                margin-bottom:0.000pt;
+                word-spacing:0.250em;
+                font-family:Arial;
+                font-style:normal;
+                font-weight:bold;
+                font-size:12.0pt;
+                color:#000000;
+                background-color:none;
+                text-decoration:none;
+                letter-spacing:0.00em;
+}
+caption.Head3NoSpace {
+                      margin-left:90.000pt;
+                      margin-right:0.000pt;
+                      text-align:left;
+                      text-indent:0.000pt;
+                      margin-top:0.000pt;
+                      margin-bottom:0.000pt;
+                      word-spacing:0.250em;
+                      font-family:Arial;
+                      font-style:normal;
+                      font-weight:bold;
+                      font-size:12.0pt;
+                      color:#000000;
+                      background-color:none;
+                      text-decoration:none;
+                      letter-spacing:0.00em;
+}
+p.IndentSpaced {
+                margin-left:108.000pt;
+                margin-right:0.000pt;
+                text-align:left;
+                text-indent:0.000pt;
+                margin-top:13.000pt;
+                margin-bottom:0.000pt;
+                word-spacing:0.250em;
+                font-family:"Times New Roman";
+                font-style:normal;
+                font-weight:normal;
+                font-size:11.0pt;
+                color:#000000;
+                background-color:none;
+                text-decoration:none;
+                letter-spacing:0.00em;
+}
+caption.IndentSpaced {
+                      margin-left:108.000pt;
+                      margin-right:0.000pt;
+                      text-align:left;
+                      text-indent:0.000pt;
+                      margin-top:13.000pt;
+                      margin-bottom:0.000pt;
+                      word-spacing:0.250em;
+                      font-family:"Times New Roman";
+                      font-style:normal;
+                      font-weight:normal;
+                      font-size:11.0pt;
+                      color:#000000;
+                      background-color:none;
+                      text-decoration:none;
+                      letter-spacing:0.00em;
+}
+p.Callout9 {
+            margin-left:0.000pt;
+            margin-right:0.000pt;
+            text-align:left;
+            text-indent:0.000pt;
+            margin-top:0.000pt;
+            margin-bottom:0.000pt;
+            word-spacing:0.250em;
+            font-family:Arial;
+            font-style:normal;
+            font-weight:normal;
+            font-size:9.0pt;
+            color:#000000;
+            background-color:none;
+            text-decoration:none;
+            letter-spacing:0.00em;
+}
+caption.Callout9 {
+                  margin-left:0.000pt;
+                  margin-right:0.000pt;
+                  text-align:left;
+                  text-indent:0.000pt;
+                  margin-top:0.000pt;
+                  margin-bottom:0.000pt;
+                  word-spacing:0.250em;
+                  font-family:Arial;
+                  font-style:normal;
+                  font-weight:normal;
+                  font-size:9.0pt;
+                  color:#000000;
+                  background-color:none;
+                  text-decoration:none;
+                  letter-spacing:0.00em;
+}
+p.Body {
+        text-indent:0;
+        word-spacing:0em;
+        color:black;
+        background-color:none;
+        text-decoration:none;
+        letter-spacing:0em;
+        font:normal 10pt Arial;
+        margin-right:0pt;
+        margin-bottom:0pt;
+}
+caption.Body {
+              margin-left:90.000pt;
+              margin-right:0.000pt;
+              text-align:left;
+              text-indent:0.000pt;
+              margin-top:13.000pt;
+              margin-bottom:0.000pt;
+              word-spacing:0.250em;
+              font-family:"Times New Roman";
+              font-style:normal;
+              font-weight:normal;
+              font-size:11.0pt;
+              color:#000000;
+              background-color:none;
+              text-decoration:none;
+              letter-spacing:0.00em;
+}
+span.Key_Numbers {
+                  font-family:Arial;
+                  font-style:normal;
+                  font-weight:normal;
+                  font-size:14.0pt;
+                  color:#000000;
+                  text-decoration:none;
+                  letter-spacing:0pt;
+}
+span.Emphasis {
+               font-style:italic;
+}
+span.Blue {
+           color:#0000ff;
+           text-decoration:none;
+           letter-spacing:0.00em;
+}
+span.CommandPrompt {
+                    font-family:"Courier New";
+                    font-style:normal;
+                    font-weight:bold;
+                    font-size:10.0pt;
+                    color:#000000;
+                    text-decoration:none;
+                    letter-spacing:0.00em;
+}
+span.Symbol {
+             font-family:Symbol;
+}
+span.Keys {
+           font-family:Arial;
+           font-style:normal;
+           font-weight:normal;
+           font-size:14.0pt;
+           color:#000000;
+           text-decoration:none;
+           letter-spacing:0.00em;
+}
+span.Number {
+             font-family:Arial;
+             font-style:normal;
+             font-weight:bold;
+             font-size:10.0pt;
+             color:#000000;
+             text-decoration:none;
+             letter-spacing:0pt;
+             position:relative;
+             clip:rect(auto,auto,auto,auto);
+}
+span.Key_Text {
+               font-family:Arial;
+               font-style:normal;
+               font-weight:normal;
+               font-size:7.5pt;
+               color:#000000;
+               text-decoration:none;
+               letter-spacing:0.00em;
+}
+span.EquationVariables {
+                        font-style:italic;
+}
+p.ChapterHead {
+               font:bold normal 24pt Arial;
+               text-decoration:none;
+               word-spacing:normal;
+}
+p.Bullet2 {
+           font:normal 10pt Arial;
+           text-decoration:none;
+}
+p.Note_Numbered_First {
+                       font:italic normal 10pt Arial;
+                       letter-spacing:normal;
+                       word-spacing:normal;
+}
+p.Figure_Title {
+                font:bold normal 10pt Arial;
+                color:black;
+                padding-bottom:0pt;
+                word-spacing:normal;
+                bottom:-10pt;
+}
+p.cellbody_note_indent {
+                        font:italic normal 10pt Arial;
+                        color:black;
+                        text-indent:0.25pt;
+}
+p.Notes_Numbered {
+                  letter-spacing:normal;
+                  word-spacing:normal;
+                  font:italic normal 10pt Arial;
+                  color:black;
+}
+p.cell_body_note {
+                  font:italic normal 10pt Arial;
+                  letter-spacing:normal;
+                  word-spacing:normal;
+}
+p.CellBody_second_level_bullet {
+                                font:normal 10pt Arial;
+}
+p.cellbody_notes_numbered_1st {
+                               font:italic normal 10pt Arial;
+}
+p.cellbody_notes_numbered {
+                           font:italic normal 10pt Arial;
+}
